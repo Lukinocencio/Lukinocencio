@@ -24,7 +24,7 @@
 <h2 align="center">⚡ Tech Stack</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,ts,js" height="55" />
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,php" height="55" />
   <br/>
   <br/>
   <img src="https://skillicons.dev/icons?i=spring,django,react,nextjs,tailwind,laravel" height="55" />
