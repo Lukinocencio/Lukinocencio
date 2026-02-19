@@ -30,7 +30,7 @@
   <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,express,laravel" height="55" />
   <br/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,docker,git" height="55" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,redis,docker,git" height="55" />
   <br/>
   <br/>
   <img src="https://skillicons.dev/icons?i=npm,azure,github,gcp,postman,vscode" height="55" />
