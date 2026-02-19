@@ -58,5 +58,5 @@
 <hr/>
 
 <div align="center">
-  <sub>Developed with 💜 by <b><a href="https://github.com/Lukinocencio">Lukinocencio</a></b></sub>
+  <sub>Developed by <b><a href="https://github.com/Lukinocencio">Lukinocencio</a></b></sub>
 </div>
