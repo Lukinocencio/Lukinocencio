@@ -27,7 +27,7 @@
   <img src="https://skillicons.dev/icons?i=java,python,ts,js" height="55" />
   <br/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=spring,django,react,nextjs,tailwind" height="55" />
+  <img src="https://skillicons.dev/icons?i=spring,django,react,nextjs,tailwind,laravel" height="55" />
   <br/>
   <br/>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,docker,git" height="55" />
