@@ -40,7 +40,7 @@
 
 <div align="center">
   <a href="https://github.com/Lukinocencio">
-    <img src="https://github-readme-stats.vercel.app/api?username=Lukinocencio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true&hide_rank=true" height="180" alt="Rescker Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Lukinocencio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true&hide_rank=true" height="180" alt="Lukinocencio Stats" />
   </a>
 </div>
 
@@ -54,8 +54,4 @@
 
 <div align="center">
   <sub>Developed with 💜 by <b><a href="https://github.com/Lukinocencio">Lukinocencio</a></b></sub>
-</div>
-
-<div align="center">
-  <img src="https://github.com/Lukinocencio/Lukinocencio/blob/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
 </div>
