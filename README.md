@@ -27,10 +27,15 @@
   <img src="https://skillicons.dev/icons?i=nodejs,java,python,ts,js,php" height="55" />
   <br/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=spring,django,react,nextjs,tailwind,laravel" height="55" />
+  <img src="https://skillicons.dev/icons?i=spring,django,react,express,nextjs,tailwind,laravel" height="55" />
   <br/>
   <br/>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,docker,git" height="55" />
+</div>
+
+<br/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=npm,azure,github,gcp,postman,vscode" height="55" />
 </div>
 
 <br/>
