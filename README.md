@@ -21,7 +21,7 @@
 <br/>
 <br/>
 
-<h2 align="center">⚡ Tech Stack</h2>
+<h2 align="center">⚡ Tech Stack and Tools</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,java,python,ts,js,php" height="55" />
