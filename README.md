@@ -33,7 +33,7 @@
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,redis,docker,git" height="55" />
   <br/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,azure,gcp,postman,vscode" height="55" />
+  <img src="https://skillicons.dev/icons?i=git,github,azure,gcp,postman" height="55" />
 </div>
 
 <br/>
