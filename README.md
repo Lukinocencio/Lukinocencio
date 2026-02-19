@@ -31,7 +31,6 @@
   <br/>
   <br/>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,docker,git" height="55" />
-</div>
   <br/>
   <br/>
   <img src="https://skillicons.dev/icons?i=npm,azure,github,gcp,postman,vscode" height="55" />
