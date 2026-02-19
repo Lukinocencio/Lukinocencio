@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=280&section=header&text=Lucas%20Inocêncio%20de%20França&fontSize=85&animation=fadeIn&fontAlignY=45&desc=%20%40Lukinocencio&descAlignY=65&descAlign=62&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Lucas%20Inocêncio%20de%20França&fontSize=85&animation=fadeIn&fontAlignY=45&desc=%20%40Lukinocencio&descAlignY=65&descAlign=62&fontColor=ffffff)
 
 <div align="center">
 
