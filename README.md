@@ -43,7 +43,7 @@
 
 <div align="center">
   <a href="https://github.com/Lukinocencio">
-    <img src="https://github-readme-stats.vercel.app/api?username=Lukinocencio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true&hide_rank=true" height="180" alt="Lukinocencio Stats" />
+    <img src="https://github-readme-stats-gold-tau-52.vercel.app/api?username=Lukinocencio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true&hide_rank=true" height="180" alt="Lukinocencio Stats" />
   </a>
 </div>
 
