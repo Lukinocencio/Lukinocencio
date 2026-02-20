@@ -1,7 +1,12 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=320&section=header&text=Lucas%20Inocêncio%20de%20França&fontSize=65&animation=fadeIn&fontAlignY=45&desc=%20%40Lukinocencio&descAlignY=65&descAlign=62&fontColor=ffffff)
+<!-- ![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=320&section=header&text=Lucas%20Inocêncio%20de%20França&fontSize=65&animation=fadeIn&fontAlignY=45&fontAlign=54&desc=%40Lukinocencio&descAlignY=65&descAlign=50&fontColor=ffffff) -->
 
 <div align="center">
 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=320&section=header&text=Lucas%20Inocêncio%20de%20França&fontSize=65&animation=fadeIn&fontAlignY=45&fontAlign=50&desc=%40Lukinocencio&descAlignY=65&descAlign=49&fontColor=ffffff" alt="Header Lucas Inocêncio" />
+
+</div>
+
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=35CD95&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;DevSecOps" alt="Typing SVG" />
   </a>
