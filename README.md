@@ -25,7 +25,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,java,python,ts,js,php" height="55" />
-  <br/>
+  
   <br/>
   <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,express,laravel" height="55" />
   <br/>
