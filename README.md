@@ -20,7 +20,6 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   <img src="https://komarev.com/ghpvc/?username=Lukinocencio&label=VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-
 </div>
 
 <br/>
